@@ -1,0 +1,3 @@
+# Run
+`iex game.ex`
+
